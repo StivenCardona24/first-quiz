@@ -36,7 +36,7 @@ sql_alter_tables_with_favorite_food = """
 
 ALTER TABLE animals ADD COLUMN favorite_food_id integer;
 ALTER TABLE people ADD COLUMN favorite_food_id integer;
-
+    
 """
 
 # Part 5.C:
